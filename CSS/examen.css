@@ -1,0 +1,167 @@
+.ocultar {
+    display: none;
+    
+}
+
+
+.logos{
+    padding-left: 20px;
+    
+}
+
+.logo1{
+    padding-left: 150px;
+}
+
+.logo2{
+    padding-left: 120px;
+    
+}
+
+.libros{
+    padding-left: 30px;
+}
+
+.gif{
+    padding-left: 50px;
+}
+
+.fila{
+    padding-bottom: 40px;
+    padding-top: 25px;
+    background-color: rgb(131, 127, 130);
+    
+}
+
+.preguntas{
+    background-color: bisque;
+    font-family: fantasy;
+    width: 200px;
+    border-radius: 10px;
+}
+
+
+.estilo1 {
+    width: 300px;
+    height: 200px;
+    background-color: rgb(219, 174, 206);
+    color: rgb(55, 6, 75);
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-radius: 15px;
+}
+
+.estilo2 {
+    width: 300px;
+    height: 280px;
+    background-color: rgb(219, 174, 206);
+    color: rgb(55, 6, 75);
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-radius: 15px;
+    
+}
+
+.estilo3 {
+    width: 300px;
+    height: 200px;
+    background-color: rgb(219, 174, 206);
+    color: rgb(55, 6, 75);
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-radius: 15px;
+}
+
+.estilo4 {
+    width: 300px;
+    height: 300px;
+    background-color: rgb(219, 174, 206);
+    color: rgb(55, 6, 75);
+    font-size: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-radius: 15px;
+
+}
+
+
+.estilo5 {
+    width: 300px;
+    height: 250px;
+    background-color: rgb(219, 174, 206);
+    color: rgb(55, 6, 75);
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-radius: 15px;
+}
+
+.estilo6 {
+    width: 300px;
+    height: 300px;
+    background-color: rgb(219, 174, 206);
+    color: rgb(55, 6, 75);
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-radius: 15px;
+    
+}
+
+.estilo7 {
+    width: 300px;
+    height: 250px;
+    background-color: rgb(219, 174, 206);
+    color: rgb(55, 6, 75);
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-radius: 15px;
+}
+
+.estilo8 {
+    width: 300px;
+    height: 250px;
+    background-color: rgb(219, 174, 206);
+    color: rgb(55, 6, 75);
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-radius: 15px;
+}
+
+
+.estilo9 {
+    width: 300px;
+    height: 300px;
+    background-color: rgb(219, 174, 206);
+    color: rgb(55, 6, 75);
+    font-size: 17px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-radius: 15px;
+}
+
+.estilo10 {
+    width: 300px;
+    height: 300px;
+    background-color: rgb(219, 174, 206);
+    color: rgb(55, 6, 75);
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-radius: 15px;
+}
+
+.estilo11 {
+    width: 300px;
+    height: 300px;
+    background-color: rgb(219, 174, 206);
+    color: rgb(55, 6, 75);
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-radius: 15px;
+}
+
+.estilo12 {
+    width: 300px;
+    height: 300px;
+    background-color: rgb(219, 174, 206);
+    color: rgb(55, 6, 75);
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-radius: 15px;
+}
