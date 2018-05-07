@@ -29,7 +29,7 @@
 .fila{
     padding-bottom: 40px;
     padding-top: 25px;
-    background-color: rgb(131, 127, 130);
+    background-color: rgb(73, 65, 71);
     
 }
 
@@ -49,6 +49,7 @@
     font-size: 20px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     border-radius: 15px;
+    
 }
 
 .estilo2 {
